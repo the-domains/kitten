@@ -4,8 +4,15 @@
         <description><![CDATA[Super Kitten]]></description>
         <link>https://thegrid.ai/kitten/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Apr 2016 20:17:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2016 20:24:26 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kitten/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/31d19adb-7e0e-484f-8063-0913be5d53a2.jpg">]]></description>
+            <link>https://thegrid.ai/kitten/6dcd8fc9-1525-45e1-9c04-45bc7ca8bc8a/index.html</link>
+            <guid isPermaLink="false">6dcd8fc9-1525-45e1-9c04-45bc7ca8bc8a</guid>
+            <pubDate>Wed, 13 Apr 2016 20:23:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a75154dc-e605-4c90-af2b-b6e40c9c388c.jpg">]]></description>
