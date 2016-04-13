@@ -1,0 +1,28 @@
+name: Super Kitten
+favicon: null
+layout_spectrum: 0.9495914941653609
+typography_spectrum: 0.10905127506703138
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.2399497926235199
+  lightness: 0.22857897100038826
+  saturation: 0.3032060437835753
+  rhythmicContrast: 0.6171477567404509
+purpose: []
